@@ -30,8 +30,7 @@ TeleportCoordProtector is a Minecraft plugin designed to protect player coordina
 ### Features
 - Obfuscates coordinates during player teleportation.
 - Protects coordinates during wither spawns, end portal openings, and ender dragon kills.
-- Customizable to only obfuscate coordinates for teleport distances greater than 100 blocks.
-- Ensures players remain visible after teleportation.
+- Only obfuscate coordinates for teleport distances greater than 100 blocks.
 
 ### Usage
 1. Download the latest version of TeleportCoordProtector from the [Releases](https://github.com/Niix-Dan/CoordsObfuscator/releases) page.
