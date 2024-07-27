@@ -25,7 +25,7 @@
 
 ## Description
 </div>
-TeleportCoordProtector is a Minecraft plugin designed to protect player coordinates from being exploited during teleportation and certain world events. This plugin ensures that sensitive coordinates remain confidential by obfuscating them from unauthorized players.
+CoordsObfuscator is a Minecraft plugin designed to protect player coordinates from being exploited during teleportation and certain world events. This plugin ensures that sensitive coordinates remain confidential by obfuscating them from unauthorized players.
 
 ### Features
 - Obfuscates coordinates during player teleportation.
@@ -33,7 +33,7 @@ TeleportCoordProtector is a Minecraft plugin designed to protect player coordina
 - Only obfuscate coordinates for teleport distances greater than 100 blocks.
 
 ### Usage
-1. Download the latest version of TeleportCoordProtector from the [Releases](https://github.com/Niix-Dan/CoordsObfuscator/releases) page.
+1. Download the latest version of CoordsObfuscator from the [Releases](https://github.com/Niix-Dan/CoordsObfuscator/releases) page.
 2. Place the downloaded `CoordsObfuscator.jar` file in your Minecraft server's `plugins` directory.
 3. Start your server to generate the default configuration files.
 4. Edit the configuration files to customize the plugin to your liking.
