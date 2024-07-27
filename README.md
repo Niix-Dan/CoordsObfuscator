@@ -39,9 +39,7 @@ CoordsObfuscator is a Minecraft plugin designed to protect player coordinates fr
 1. Download the latest version of CoordsObfuscator from the [Releases](https://github.com/Niix-Dan/CoordsObfuscator/releases) page.
 2. Place the downloaded `CoordsObfuscator.jar` file in your Minecraft server's `plugins` directory.
 3. Download and place the latest version of `ProtocolLib.jar` in your `plugins` directory.
-4. Start your server to generate the default configuration files.
-5. Edit the configuration files to customize the plugin to your liking.
-6. Restart your server to apply the changes.
+6. Restart your server.
 
 ---
 
