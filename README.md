@@ -30,14 +30,18 @@ CoordsObfuscator is a Minecraft plugin designed to protect player coordinates fr
 ### Features
 - Obfuscates coordinates during player teleportation.
 - Protects coordinates during wither spawns, end portal openings, and ender dragon kills.
-- Only obfuscate coordinates for teleport distances greater than 100 blocks.
+- Only obfuscates coordinates for teleport distances greater than 100 blocks.
+
+### Dependencies
+- This plugin requires [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) to function correctly. Make sure to download and install ProtocolLib on your server.
 
 ### Usage
 1. Download the latest version of CoordsObfuscator from the [Releases](https://github.com/Niix-Dan/CoordsObfuscator/releases) page.
 2. Place the downloaded `CoordsObfuscator.jar` file in your Minecraft server's `plugins` directory.
-3. Start your server to generate the default configuration files.
-4. Edit the configuration files to customize the plugin to your liking.
-5. Restart your server to apply the changes.
+3. Download and place the latest version of `ProtocolLib.jar` in your `plugins` directory.
+4. Start your server to generate the default configuration files.
+5. Edit the configuration files to customize the plugin to your liking.
+6. Restart your server to apply the changes.
 
 ---
 
