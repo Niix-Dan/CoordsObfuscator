@@ -1,0 +1,9 @@
+name: CoordsObfuscator
+version: '1.0.0'
+main: niix.dan.tpobf.CoordsObfuscator
+api-version: '1.18'
+load: POSTWORLD
+authors: [Niix-Dan]
+description: 'Protects player coordinates during teleportation and world events by obfuscating them, ensuring privacy and visibility.'
+website: https://github.com/Niix-Dan/CoordsObfuscator
+depend: [ ProtocolLib ]
